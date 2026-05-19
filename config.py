@@ -1,7 +1,7 @@
 import time
 
 # Bot Information
-BOT_TOKEN = "8756165304:AAEZoNxt3gC2vZLWoAZryEofMcTx0ClZvq0"
+BOT_TOKEN = "8630078554:AAHZdh21I3D__fObqDOvco5ge8zFkb6yg54"
 BOT_NAME = "KING OSINT"
 BOT_VERSION = "26.4.8"
 BOT_START_TIME = time.time()
