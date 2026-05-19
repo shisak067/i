@@ -1,9 +1,3 @@
-
----
-
-## **8. user_handlers.py** - User Commands
-
-```python
 import asyncio
 import os
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
